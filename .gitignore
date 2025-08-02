@@ -1,0 +1,46 @@
+# 依赖目录
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 数据文件
+data/*.dat
+data/*.backup
+
+# 日志文件
+logs/*.log
+*.log
+
+# 环境变量
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# 编辑器配置
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+tmp/
+temp/
+.tmp
+.temp
+
+# 构建输出
+dist/
+build/
+out/
+
+# 缓存
+.cache/
+.npm/
+.eslintcache
