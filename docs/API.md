@@ -371,5 +371,5 @@ curl http://localhost:3000/stats
 如果您在使用过程中遇到问题，请：
 
 1. 查看 [FAQ文档](FAQ.md)
-2. 检查 [GitHub Issues](https://github.com/your-username/qqwry-ip-api-server/issues)
-3. 创建新的 [Issue](https://github.com/your-username/qqwry-ip-api-server/issues/new)
+2. 检查 [GitHub Issues](https://github.com/zxlee920/qqwry-ip-api-server/issues)
+3. 创建新的 [Issue](https://github.com/zxlee920/qqwry-ip-api-server/issues/new)

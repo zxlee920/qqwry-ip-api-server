@@ -24,7 +24,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/qqwry-ip-api-server.git
+git clone https://github.com/zxlee920/qqwry-ip-api-server.git
 cd qqwry-ip-api-server
 
 # 安装依赖
@@ -348,8 +348,8 @@ pm2 monit
 如果您遇到问题或有建议，请：
 
 1. 查看 [FAQ](docs/FAQ.md)
-2. 搜索 [Issues](https://github.com/your-username/qqwry-ip-api-server/issues)
-3. 创建新的 [Issue](https://github.com/your-username/qqwry-ip-api-server/issues/new)
+2. 搜索 [Issues](https://github.com/zxlee920/qqwry-ip-api-server/issues)
+3. 创建新的 [Issue](https://github.com/zxlee920/qqwry-ip-api-server/issues/new)
 
 ---
 
